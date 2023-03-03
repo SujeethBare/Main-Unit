@@ -4,7 +4,7 @@ dependencies:
     - numpy
     - matplotlib
     - jupyter
-    - scikit-learn
+    - scikit-learn.
     - cython
     - pip:
         - pygame
